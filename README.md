@@ -30,4 +30,4 @@ Platz 1: 150.000$
 Platz 2: 100.000$
 Platz 3: 50.000$
 
-### Danke an Yusa und Samet für eine Spende von 100k
+##### Danke an Yusa und Samet für eine Spende von 100k
